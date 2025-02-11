@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZkMjM3eGwwbjlkcTloaXFwbzY0YTk3bGRpa2VkcGNqcHV3MDU0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HW3T1wWW3z2Ff2cpXO/giphy.gif" alt="GIF of woman coding">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEwY2Jwdm1kZ2JiNmM1ODdzd2s3YjJ0aW9sOTUyYTRlcG9pYjNuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/36KsC30Yp0C3rnt8H8/giphy.gif" alt="GIF of woman coding">
   <br>
   
   &nbsp;
