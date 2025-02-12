@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFwYjdsMnNrNWc0YndsNmJiYWVmeXpwZzNxMDR2dWkzd2pvNjM5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="GIF of AI">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9jbDJsaWoxeTNiM21wOXJmNThyeWtwamR6ZGN5bWc0Znk2dzk4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/36KsC30Yp0C3rnt8H8/giphy.gif" alt="GIF of AI">
   <br>
  
   
