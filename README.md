@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp0NnV6MzRhdmZ2eGN5dDc4aHUzcnByczl5ejIxdGw0anUxNjBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7tY2KeIBJASzlaLep/giphy.gif" alt="GIF of AI">
-  <br>
+
  <div align="center">
-  <img src="https://raw.githubusercontent.com/aaraszewska/aaraszewska/mygif.gif">
+  <img src="https://github.com/aaraszewska/aaraszewska/blob/main/mygif.gif">
 </div>
 
   
