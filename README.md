@@ -61,10 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaraszewska&theme=radical">
 </p>
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaraszewska&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-</div>
+
 
 ### 🔥 GitHub Streak:
 <div align="center">
