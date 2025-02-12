@@ -61,3 +61,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaraszewska&theme=radical">
 </p>
 
+### 🏆 Most Used Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaraszewska&layout=compact&theme=dark" alt="Most Used Languages">
+</div>
+
