@@ -61,8 +61,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaraszewska&theme=radical">
 </p>
 
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaraszewska&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+</div>
+
+### 🔥 GitHub Streak:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaraszewska&theme=dark" alt="GitHub Streak">
+</div>
+
 ### 🏆 Most Used Languages:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaraszewska&layout=compact&theme=dark" alt="Most Used Languages">
 </div>
+
+
+### 🏅 GitHub Achievements:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaraszewska&theme=darkhub" alt="GitHub Trophies">
+</div>
+
 
