@@ -13,27 +13,51 @@
   </a>
 </p>
 
-<h1 align="center" style="color: #ff69b4;">Hi, I'm Anna! 👋</h1>
+<h1 align="center">Hi, I'm Anna! 👋</h1>
 
 ---
 
 ### 👩‍💻 About Me:
 - 🏡 **Based in the UK but love to travel**
-- 🧑‍💻 **Passionate about Data and AI**
-- 🚀 **Aspiring Machine Learning & Data Analyst**
+- 🤖 **Passionate about Data, AI, and Machine Learning**
+- 📊 **Junior Data Analyst eager to solve real-world problems with data**
 
 ---
 
-### 📚 Tech Stack
+### 📚 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,azure,git,sql,pandas,sklearn,github,linux,vscode" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=python,sql,git,aws,azure,pandas,sklearn,pytorch,matplotlib,seaborn,plotly,powerbi,looker,bs4,linux,vscode" alt="Tech Stack Icons">
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 🛠 **Skills & Tools**
+#### **📊 Data & Machine Learning**
+- Python: **NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, PyTorch, BeautifulSoup**
+- Machine Learning & AI: **Scikit-Learn, PyTorch**
+- Data Cleaning, Analysis, and Visualization
+
+#### **💾 Databases & SQL**
+- SQL & Database Management
+- BigQuery & DBT
+
+#### **📡 API & Automation**
+- **REST API, API and ELT with Fivetran**
+- **Automation with Zapier**
+
+#### **📈 Business Intelligence**
+- **Microsoft Power BI, Looker Studio, Google Sheets**
+
+#### **⚙️ Other**
+- **Git & GitHub**
+- **Extract, Transform, and Load (ETL)**
+
+---
+
+### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaraszewska&show_icons=true&theme=radical" width="50%">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaraszewska&theme=radical">
 </p>
+
