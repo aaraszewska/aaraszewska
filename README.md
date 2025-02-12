@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp0NnV6MzRhdmZ2eGN5dDc4aHUzcnByczl5ejIxdGw0anUxNjBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7tY2KeIBJASzlaLep/giphy.gif" alt="GIF of AI">
   <br>
- 
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/aaraszewska/aaraszewska/main/mygif.gif">
+</div>
+
   
  
   <a href="https://www.linkedin.com/in/anna-araszewska/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linked In Button"/></a>
